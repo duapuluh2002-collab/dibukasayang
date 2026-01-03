@@ -1,4 +1,3 @@
-[dibukasayang.html](https://github.com/user-attachments/files/24417980/dibukasayang.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
